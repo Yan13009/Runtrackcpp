@@ -1,0 +1,5 @@
+n = 0 : "Nul"
+n = 1 : "Petit"
+n = 4 : "Moyen"
+n = 10 : "Grand"
+n = -5 : "Grand"
